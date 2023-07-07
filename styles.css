@@ -1,1 +1,61 @@
 /* Write your CSS here! */
+
+header {
+    color: 	#013220;
+}
+
+body{
+    height: 100%;
+    width: 60%;
+    padding: 30px;
+    margin: 8px;
+    display: block;
+}
+
+.image {
+    width: 100%;
+}
+
+
+#name{
+    color: gray;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #E8DED1;
+}
+
+body {
+    background-color: 	#f5f5dc;
+    font-family: Verdana (sans-serif);
+}
+
+#testP {
+    color: green;
+
+}
+
+h1 {
+    color: red;
+    font-size: 15px;
+}
+
+h2 {
+    color: #003500;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h3 {
+    color:green;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+.city {
+    font-family: Arial (sans-serif);
+}
+
+
+
+
