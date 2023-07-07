@@ -1,10 +1,26 @@
 /* Write your CSS here! */
+
 header {
     color: 	#013220;
 }
 
+body{
+    height: 100%;
+    width: 70%;
+    padding: 30px;
+    margin: 8px;
+    display: block;
+}
+
+.images{
+    display: flex;
+    width: 200px;
+    height: auto;
+}
+
+
 #name{
-    color: green;
+    color: gray;
     font-size: 30px;
     font-weight: bold;
     background-color: #E8DED1;
@@ -15,19 +31,31 @@ body {
     font-family: Verdana (sans-serif);
 }
 
+#testP {
+    color: green;
+
+}
+
 h1 {
+    color: red;
+    font-size: 15px;
+}
+
+h2 {
     color: #003500;
-    font-family: Arial (sans-serif);
     font-size: 20px;
     font-weight: bold;
 }
 
-h2 {
+h3 {
     color:green;
-    font-family: Arial (sans-serif);
-    font-size: 15px;
+    font-size: 18px;
     font-weight: bold;
     
+}
+
+.city {
+    font-family: Arial (sans-serif);
 }
 
 
