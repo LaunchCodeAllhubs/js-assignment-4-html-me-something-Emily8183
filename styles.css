@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+header {
+    color: 	#013220;
+}
+
+#name{
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #E8DED1;
+}
+
+body {
+    background-color: 	#f5f5dc;
+    font-family: Verdana (sans-serif);
+}
+
+h1 {
+    color: #003500;
+    font-family: Arial (sans-serif);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h2 {
+    color:green;
+    font-family: Arial (sans-serif);
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+
+
+
